@@ -45,7 +45,7 @@ Before getting started, make sure you have the following installed on your machi
    npm start
    ```
 
-   The app will be available in your browser at `http://localhost:3000`.
+   The app will be available in your browser at `http://localhost:3000`
 
 ## Usage
 
