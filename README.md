@@ -4,15 +4,15 @@ Here's a README template for your project:
 
 # usePopcorn
 
-`usePopcorn` is a simple React application that allows users to search for movies, view their details, rate them, and add them to a watched list. The app also provides an average rating and runtime for the movies the user has watched
+`usePopcorn` is a simple React application that allows users to search for movies, view their details, rate them, and add them to a watched list. The app also provides an average rating and runtime for the movies the user has watched.
 
 ## Features
 
-- **Search Movies**: Search for movies by title using the OMDB API
+- **Search Movies**: Search for movies by title using the OMDB API.
 - **Movie Details**: View details of a selected movie, including its runtime, director, actors, and plot.
 - **Rating**: Rate movies from 1 to 10 stars.
 - **Watched List**: Add movies to the watched list and see your average ratings and runtime for watched movies.
-- **Interactive UI**: Clean user interface with a flexible layout and animated transitions
+- **Interactive UI**: Clean user interface with a flexible layout and animated transitions.
 
 ## Setup
 
