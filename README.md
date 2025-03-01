@@ -50,8 +50,8 @@ Before getting started, make sure you have the following installed on your machi
 ## Usage
 
 1. **Search**: Type the name of a movie in the search bar, and it will fetch movie data from the OMDB API.
-2. **Movie Details**: Click on a movie from the search results to view its details, including runtime, genre, and plot
-3. **Rating**: Rate a movie from 1 to 10 stars. Once rated, you can add it to your "Watched" list
+2. **Movie Details**: Click on a movie from the search results to view its details, including runtime, genre, and plot.
+3. **Rating**: Rate a movie from 1 to 10 stars. Once rated, you can add it to your "Watched" list.
 4. **Watched Movies**: After adding movies to your watched list, you can see the average IMDb rating, user rating, and runtime for all the movies you've watched.
 
 ## Components
